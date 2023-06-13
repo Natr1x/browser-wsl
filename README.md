@@ -1,8 +1,13 @@
-# WSL Open Tool
+# Browser WSL
 
-The WSL Open Tool is a bash script intended for use in Ubuntu WSL. This script
-allows you to open a file or link in your host browser from within the WSL
-environment.
+The Browser WSL tool is a bash script intended for use in Ubuntu WSL. This
+script allows you to open a file or link in your host browser from within the
+WSL environment.
+
+Based on wslview from the wslut suite of tools but with the distinction that
+you can pick what program to open the files/links with yourself instead of
+relying on powershell, cmd, or explorer.exe. All of which can be very slow
+in certain scenarios.
 
 ## Requirements
 
