@@ -15,7 +15,7 @@ LINK/FILE:
   unless a different program is specified with -E|--engine.
 
 Options:
-  -h            Display this help message, do not run the rest of the script.
+  -h|--help     Display this help message, do not run the rest of the script.
   -v|--verbose  Use 'set -x' to for verbose output.
   -E|--engine   Specify a different webbrowser than specified in $$BROWSER.
 

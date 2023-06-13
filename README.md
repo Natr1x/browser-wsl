@@ -34,7 +34,7 @@ Here is the basic usage:
 
 ### Options
 
-- `-h`: Display help message and does not run the rest of the script.
+- `-h|--help`: Display help message and does not run the rest of the script.
 - `-v|--verbose`: Enable verbose output using 'set -x'.
 - `-E|--engine`: Specify a different web browser than specified in `BROWSER`.
 
